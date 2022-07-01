@@ -1,0 +1,2 @@
+# ToDoProjectOnDjango
+real python project
