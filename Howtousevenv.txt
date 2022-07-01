@@ -1,0 +1,16 @@
+# To activate virtual environment use code:
+# python3 -m venv venv
+# source venv/bin/activate
+
+# To run server:
+# python3 manage.py runserver
+
+# And to deactivate use:
+# deactivate
+
+# To save changes in your projects use makemagration and migrate:
+# python3 manage.py makemigrations todo_app
+# python3 manage.py migrate
+
+# to Create superuser:
+# python3 manage.py createsuperuser
